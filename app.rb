@@ -6,5 +6,7 @@ get '/' do
 end
 
 get '/random_tweet' do
-  Tweet.new.random_tweet
+  # Tweet.new.random_tweet
+  # 'Please check your tweet'
+  'Closed'
 end
