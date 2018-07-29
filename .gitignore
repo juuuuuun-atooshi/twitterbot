@@ -1,2 +1,3 @@
 #dotenv-rails
 .env
+config.yml
